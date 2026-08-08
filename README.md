@@ -30,4 +30,8 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somasundar18/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0263-ugly-number](https://github.com/somasundar18/Leetcode/tree/main/0263-ugly-number/) | Easy |
 <!---LeetCode Topics End-->
