@@ -7,6 +7,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/somasundar18/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/somasundar18/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/somasundar18/Leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0724-find-pivot-index](https://github.com/somasundar18/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -39,6 +40,11 @@ My daily LeetCode solutions and DSA practice in Java.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/somasundar18/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/somasundar18/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/somasundar18/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/somasundar18/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
