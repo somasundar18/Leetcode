@@ -7,6 +7,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/somasundar18/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0048-rotate-image](https://github.com/somasundar18/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/somasundar18/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/somasundar18/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/somasundar18/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -42,6 +43,7 @@ My daily LeetCode solutions and DSA practice in Java.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/somasundar18/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0263-ugly-number](https://github.com/somasundar18/Leetcode/tree/main/0263-ugly-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -54,4 +56,8 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/somasundar18/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/somasundar18/Leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
