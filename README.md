@@ -29,6 +29,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/somasundar18/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/somasundar18/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/somasundar18/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/somasundar18/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
