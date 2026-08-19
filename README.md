@@ -15,6 +15,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/somasundar18/Leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0724-find-pivot-index](https://github.com/somasundar18/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/somasundar18/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0896-monotonic-array](https://github.com/somasundar18/Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/somasundar18/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/somasundar18/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
