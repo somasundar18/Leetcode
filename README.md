@@ -37,6 +37,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/somasundar18/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0165-compare-version-numbers](https://github.com/somasundar18/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -50,6 +51,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somasundar18/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/somasundar18/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0165-compare-version-numbers](https://github.com/somasundar18/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/somasundar18/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/somasundar18/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
