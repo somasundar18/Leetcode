@@ -62,6 +62,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [2390-removing-stars-from-a-string](https://github.com/somasundar18/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/somasundar18/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3174-clear-digits](https://github.com/somasundar18/Leetcode/tree/main/3174-clear-digits/) | Easy |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/somasundar18/Leetcode/tree/main/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | ------- | ------- |
 | [0738-monotone-increasing-digits](https://github.com/somasundar18/Leetcode/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/somasundar18/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/somasundar18/Leetcode/tree/main/3216-lexicographically-smallest-string-after-a-swap/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
