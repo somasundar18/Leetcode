@@ -8,6 +8,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/somasundar18/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/somasundar18/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/somasundar18/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/somasundar18/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -136,6 +137,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/somasundar18/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/somasundar18/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somasundar18/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
