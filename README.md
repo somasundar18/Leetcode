@@ -93,6 +93,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0029-divide-two-integers](https://github.com/somasundar18/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/somasundar18/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0263-ugly-number](https://github.com/somasundar18/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/somasundar18/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0738-monotone-increasing-digits](https://github.com/somasundar18/Leetcode/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/somasundar18/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Prefix Sum
@@ -128,6 +129,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/somasundar18/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0509-fibonacci-number](https://github.com/somasundar18/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ My daily LeetCode solutions and DSA practice in Java.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/somasundar18/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/somasundar18/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -205,4 +208,8 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/somasundar18/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/somasundar18/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
