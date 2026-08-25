@@ -31,6 +31,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [1480-running-sum-of-1d-array](https://github.com/somasundar18/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/somasundar18/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/somasundar18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/somasundar18/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0451-sort-characters-by-frequency](https://github.com/somasundar18/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/somasundar18/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/somasundar18/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/somasundar18/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
