@@ -11,6 +11,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0033-search-in-rotated-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/somasundar18/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/somasundar18/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/somasundar18/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/somasundar18/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/somasundar18/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -217,5 +218,10 @@ My daily LeetCode solutions and DSA practice in Java.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/somasundar18/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/somasundar18/Leetcode/tree/main/0078-subsets/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/somasundar18/Leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
