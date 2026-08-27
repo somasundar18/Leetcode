@@ -34,6 +34,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [1480-running-sum-of-1d-array](https://github.com/somasundar18/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/somasundar18/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/somasundar18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/somasundar18/Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/somasundar18/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
