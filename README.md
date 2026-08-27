@@ -219,9 +219,11 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/somasundar18/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/somasundar18/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/somasundar18/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/somasundar18/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/somasundar18/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
