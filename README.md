@@ -40,6 +40,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [2574-left-and-right-sum-differences](https://github.com/somasundar18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/somasundar18/Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/somasundar18/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/somasundar18/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
