@@ -35,6 +35,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/somasundar18/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/somasundar18/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/somasundar18/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/somasundar18/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/somasundar18/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/somasundar18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -52,6 +53,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somasundar18/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/somasundar18/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/somasundar18/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/somasundar18/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/somasundar18/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/somasundar18/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
@@ -137,6 +139,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0169-majority-element](https://github.com/somasundar18/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/somasundar18/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/somasundar18/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/somasundar18/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/somasundar18/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
