@@ -148,6 +148,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0021-merge-two-sorted-lists](https://github.com/somasundar18/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/somasundar18/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/somasundar18/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
