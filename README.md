@@ -49,6 +49,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0003-longest-substring-without-repeating-characters](https://github.com/somasundar18/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/somasundar18/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/somasundar18/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0299-bulls-and-cows](https://github.com/somasundar18/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/somasundar18/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somasundar18/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/somasundar18/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -86,6 +87,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0003-longest-substring-without-repeating-characters](https://github.com/somasundar18/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/somasundar18/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0165-compare-version-numbers](https://github.com/somasundar18/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0299-bulls-and-cows](https://github.com/somasundar18/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0392-is-subsequence](https://github.com/somasundar18/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/somasundar18/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/somasundar18/Leetcode/tree/main/0520-detect-capital/) | Easy |
@@ -137,6 +139,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/somasundar18/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0299-bulls-and-cows](https://github.com/somasundar18/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/somasundar18/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/somasundar18/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somasundar18/Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
