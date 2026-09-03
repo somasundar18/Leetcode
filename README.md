@@ -69,6 +69,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0845-longest-mountain-in-array](https://github.com/somasundar18/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somasundar18/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/somasundar18/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Sorting
@@ -152,6 +153,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/somasundar18/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/somasundar18/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somasundar18/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0496-next-greater-element-i](https://github.com/somasundar18/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/somasundar18/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somasundar18/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/somasundar18/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/somasundar18/Leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
