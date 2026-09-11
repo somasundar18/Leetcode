@@ -279,6 +279,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/somasundar18/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/somasundar18/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0145-binary-tree-postorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/somasundar18/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/somasundar18/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/somasundar18/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +305,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/somasundar18/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/somasundar18/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,4 +323,5 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/somasundar18/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/somasundar18/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
