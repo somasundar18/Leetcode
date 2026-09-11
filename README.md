@@ -276,6 +276,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/somasundar18/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/somasundar18/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -287,6 +288,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/somasundar18/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/somasundar18/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/somasundar18/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/somasundar18/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -308,8 +311,10 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0100-same-tree](https://github.com/somasundar18/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/somasundar18/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/somasundar18/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/somasundar18/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/somasundar18/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
