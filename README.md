@@ -20,6 +20,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0169-majority-element](https://github.com/somasundar18/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/somasundar18/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/somasundar18/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/somasundar18/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/somasundar18/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/somasundar18/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somasundar18/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -66,6 +67,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0075-sort-colors](https://github.com/somasundar18/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0165-compare-version-numbers](https://github.com/somasundar18/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somasundar18/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/somasundar18/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/somasundar18/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/somasundar18/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -192,6 +194,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/somasundar18/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somasundar18/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/somasundar18/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/somasundar18/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somasundar18/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/somasundar18/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Divide and Conquer
@@ -224,6 +227,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/somasundar18/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/somasundar18/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/somasundar18/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,4 +332,12 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0700-search-in-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/somasundar18/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/somasundar18/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/somasundar18/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/somasundar18/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
