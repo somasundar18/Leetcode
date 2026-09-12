@@ -67,6 +67,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0075-sort-colors](https://github.com/somasundar18/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0165-compare-version-numbers](https://github.com/somasundar18/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somasundar18/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/somasundar18/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/somasundar18/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/somasundar18/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -154,6 +155,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/somasundar18/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/somasundar18/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/somasundar18/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/somasundar18/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somasundar18/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -161,6 +163,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/somasundar18/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/somasundar18/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -169,6 +172,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0094-binary-tree-inorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/somasundar18/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/somasundar18/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/somasundar18/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
