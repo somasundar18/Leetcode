@@ -16,6 +16,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0075-sort-colors](https://github.com/somasundar18/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/somasundar18/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/somasundar18/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/somasundar18/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somasundar18/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/somasundar18/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/somasundar18/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -248,6 +249,7 @@ My daily LeetCode solutions and DSA practice in Java.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/somasundar18/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/somasundar18/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/somasundar18/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/somasundar18/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
