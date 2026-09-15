@@ -31,6 +31,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/somasundar18/Leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0724-find-pivot-index](https://github.com/somasundar18/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/somasundar18/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/somasundar18/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/somasundar18/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/somasundar18/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/somasundar18/Leetcode/tree/main/0896-monotonic-array/) | Easy |
@@ -73,6 +74,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0287-find-the-duplicate-number](https://github.com/somasundar18/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/somasundar18/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/somasundar18/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/somasundar18/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/somasundar18/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -100,6 +102,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0392-is-subsequence](https://github.com/somasundar18/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/somasundar18/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/somasundar18/Leetcode/tree/main/0520-detect-capital/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/somasundar18/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/somasundar18/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/somasundar18/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
