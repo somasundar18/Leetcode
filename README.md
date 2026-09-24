@@ -47,6 +47,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/somasundar18/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/somasundar18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/somasundar18/Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/somasundar18/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/somasundar18/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
@@ -135,6 +136,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0263-ugly-number](https://github.com/somasundar18/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/somasundar18/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0738-monotone-increasing-digits](https://github.com/somasundar18/Leetcode/tree/main/0738-monotone-increasing-digits/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/somasundar18/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/somasundar18/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
