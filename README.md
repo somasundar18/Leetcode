@@ -36,6 +36,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0845-longest-mountain-in-array](https://github.com/somasundar18/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/somasundar18/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/somasundar18/Leetcode/tree/main/0896-monotonic-array/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/somasundar18/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/somasundar18/Leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/somasundar18/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -80,6 +81,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0821-shortest-distance-to-a-character](https://github.com/somasundar18/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/somasundar18/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/somasundar18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/somasundar18/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somasundar18/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/somasundar18/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -93,6 +95,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0350-intersection-of-two-arrays-ii](https://github.com/somasundar18/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somasundar18/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/somasundar18/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/somasundar18/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/somasundar18/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/somasundar18/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 ## String
