@@ -114,6 +114,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0821-shortest-distance-to-a-character](https://github.com/somasundar18/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/somasundar18/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/somasundar18/Leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/somasundar18/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/somasundar18/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -195,6 +196,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | [0496-next-greater-element-i](https://github.com/somasundar18/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/somasundar18/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somasundar18/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/somasundar18/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/somasundar18/Leetcode/tree/main/3174-clear-digits/) | Easy |
@@ -208,6 +210,7 @@ My daily LeetCode solutions and DSA practice in Java.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/somasundar18/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/somasundar18/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
