@@ -4,14 +4,14 @@ class Solution {
         String res = "";
         for(char ch : s.toCharArray()){
             if(ch == '('){
-                if(st.size() != 0){
+                if(!st.isEmpty()){
                     res += '(';
                 }
-                st.push('(');
+                st.push(ch);
             }
             else{
                 st.pop();
-                if(st.size() != 0){
+                if(!st.isEmpty()){
                     res += ')';
                 }
             }
